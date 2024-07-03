@@ -20,10 +20,6 @@ To deactivate, simply press
 
 `Ctrl + c`
 
-And if you want this script to work in the background, run it like this:
-
-`./move.sh & exit`
-
 ### LINUX
 
 Simply go to the script directory and type in:
